@@ -1,9 +1,8 @@
 function Home() {
   return (
-    <h1>
-      Oi mor, to fazendo o primeiro deploy do meu curso, e queria dizer que eu
-      amo vc! :) ♥
-    </h1>
+    <div>
+      <img src="https://i.ibb.co/DD1dVH5w/logo.png" alt="logo" border="0"></img>
+    </div>
   );
 }
 
