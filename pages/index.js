@@ -30,18 +30,9 @@ function Home() {
         justifyContent: "center",
         alignItems: "center",
         textAlign: "center",
-        color: "white",
+        color: "#9b007e",
       }}
     >
-      <h1
-        style={{
-          marginBottom: "20px",
-          fontFamily: '"Chocolate Classical Sans", sans-serif',
-        }}
-      >
-        Rodabeda ♥
-      </h1>
-
       <img
         src="https://i.ibb.co/G4y8r2f2/logo.png"
         alt="Rodabeda"
@@ -51,6 +42,14 @@ function Home() {
           height: "auto",
         }}
       />
+      <h1
+        style={{
+          marginTop: "30px",
+          fontFamily: '"Chocolate Classical Sans", sans-serif',
+        }}
+      >
+        Rodabeda
+      </h1>
     </div>
   );
 }
