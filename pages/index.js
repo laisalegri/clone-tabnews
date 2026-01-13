@@ -50,6 +50,14 @@ function Home() {
       >
         Rodabeda
       </h1>
+      <p
+        style={{
+          marginTop: "30px",
+          fontFamily: '"Chocolate Classical Sans", sans-serif',
+        }}
+      >
+        Sabor vegano de verdade, sem crueldade ♥🌱
+      </p>
     </div>
   );
 }
