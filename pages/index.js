@@ -27,7 +27,7 @@ function Home() {
         alt="Rodabeda"
         style={{
           width: "100%",
-          maxWidth: "500px",
+          maxWidth: "300px",
           height: "auto",
         }}
       />
