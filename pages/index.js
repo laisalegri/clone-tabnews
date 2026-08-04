@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 
 import { useEffect } from "react";
 
@@ -33,7 +34,7 @@ function Home() {
         color: "#9b007e",
       }}
     >
-      <img
+      <Image
         src="https://i.ibb.co/G4y8r2f2/logo.png"
         alt="Rodabeda"
         style={{
